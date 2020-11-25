@@ -1,2 +1,5 @@
 # hello-world
-just-so-so
+
+Hi Humans!
+
+hubot here,I like node.js
